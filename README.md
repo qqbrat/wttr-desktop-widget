@@ -1,1 +1,1 @@
-# nook-notch
+# wttr-desktop-widget
